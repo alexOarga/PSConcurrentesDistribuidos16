@@ -1,0 +1,1 @@
+La versión de "CImg.h" que usamos ha sido ligeramente modificada para que compile en SUN: una variable "_X" ha sido renombrada, pues ya era usada por librerías propias de SUN
